@@ -1,1 +1,0 @@
-The templates and hard segmentations here are constructed using linear transformations. These are provided purely to illustrate the variability in morphology in the M-CRIB sample. However, these will produce suboptimal labeling. For that purpose, please use the templates provided in the main M-CRIB atlas.
