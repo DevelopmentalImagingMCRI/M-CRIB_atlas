@@ -13,7 +13,7 @@ Thresholded hard segmentation images were constructed by registering the 10 parc
 
 Individual structure probability maps are based on registration of binarised labels for each structure for the 10 participants to the T2-weighted M-CRIB template.
 
-Label files in ITK and FreeSurfer formats list structure indices, labels, RGB and alpha values. 
+Label files in ITK and FreeSurfer formats list structure indices, names, RGB and alpha values. 
 
 
 Templates and hard segmentations based on rigid and affine registration are also available, purely for the purpose of further illustrating the variability in morphology in the M-CRIB sample. However, these will produce suboptimal labeling, so are not recommended for this purpose. These are available in the current repository under the branch 'linear\_atlas\_versions'. To access this, 
@@ -26,6 +26,6 @@ Images are in the subfolder linear\_M-CRIB\_atlas\_versions
 
 If available, we may add further M-CRIB atlas data via this page.
 
-Please cite [this paper](http://www.sciencedirect.com/science/article/pii/S1053811916305444) when using or referring to the M-CRIB atlas.
+Please cite [this paper](http://www.sciencedirect.com/science/article/pii/S1053811916305444) when using and referring to the M-CRIB atlas.
 
 
