@@ -1,4 +1,4 @@
-#No.	R	G	B	
+#No.	R	G	B	A	Vis	MeshVis	Label
 0	0	0	0	0	0	0	"Unknown"
 2	245	245	245	1	1	1	"Left-Cerebral-White-Matter"
 4	120	18	134	1	1	1	"Left-Lateral-Ventricle"
