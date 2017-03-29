@@ -1,5 +1,10 @@
 # M-CRIB atlas 
 
+## Update
+
+The individual segmentation images and corresponding individual T1 and T2 images are now available for transfer via signed agreement. If this is of interest, please email deanne.thompson@mcri.edu.au.
+
+
 ## Files available here include:
 
 * T2- and T1-weighted templates
@@ -13,6 +18,7 @@ Thresholded hard segmentation images were constructed by registering the 10 parc
 
 Individual structure probability maps are based on registration of binarised labels for each structure for the 10 participants to the T2-weighted M-CRIB template.
 
+
 Label files in ITK and FreeSurfer formats list structure indices, names, RGB and alpha values. 
 
 
@@ -22,6 +28,7 @@ Templates and hard segmentations based on rigid and affine registration are also
 git checkout linear_atlas_versions
 ```
 Images are in the subfolder linear\_M-CRIB\_atlas\_versions
+
 
 
 If available, we may add further M-CRIB atlas data via this page.
