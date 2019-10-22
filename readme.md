@@ -2,10 +2,14 @@
 
 ## Update
 
-The individual segmentation images and corresponding individual T1 and T2 images are now available for transfer via signed agreement. If this is of interest, please email deanne.thompson@mcri.edu.au.
+Individual T2-weighted, T1-weighted and parcellated images comprising the M-CRIB atlas (with Desikan-Killiany compatible cortical regions) are now available via Open Science Framework here: https://osf.io/2yx8u/ 
+
+Corresponding individual data for the M-CRIB 2.0 atlas (with Desikan-Killiany-Tourville compatible cortical regions) are available here: https://osf.io/4vthr/
+
+Please use the datasets available via OSF as they will provide more accurate labeling than the group templates provided on the current page.
 
 
-## Files available here include:
+## Files available on the current page are group templates including:
 
 * T2- and T1-weighted templates
 * Hard segmentation images
